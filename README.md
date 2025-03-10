@@ -15,3 +15,6 @@ This project uses the Google Maps API to calculate travel times for a route cros
   - [data.py → `navigate_website`]  
   - [scrape.py → `find_wait_times`]
 
+## Setup
+- In main.py, enter your Google Maps API code
+- Run main.py
